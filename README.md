@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=San+Francisco&pause=1000&color=15F7C7&vCenter=true&width=435&lines=Greetings+!+I'm+Mark+%2C+Welcome+to+My+Repo)](https://github.com/rstu123)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=San+Francisco&pause=1000&color=15F7C7&vCenter=true&width=435&lines=Greetings+!+I'm+Mark)](https://github.com/rstu123)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rstu123&color=53ed6b&style=flat-square)
 
